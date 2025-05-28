@@ -1,1 +1,1 @@
-# Processos-de-Redund-ncia-de-Arquivos-na-Azure
+# Processos-de-Redundancia-de-Arquivos-na-Azure
